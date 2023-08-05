@@ -1,0 +1,100 @@
+p {
+    background-color: #003559;
+    color: #b9d6f2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    background-color: #003559;
+    color: #b9d6f2;
+}
+
+#navbar {
+    background-color: #003559;
+    color: cornflowerblue;
+    border-style: solid;
+    border-collapse: collapse;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    background-color: #b9d6f2;
+    border-color: #061a40;
+    font-size: 20px;
+    position: sticky;
+    top: 0px;
+    /* It will stay at the top of the page when you scroll */
+}
+
+#navbar th {
+    border-style: solid;
+    border-collapse: collapse;
+    border-color: #003559;
+}
+
+.profile {
+    align-items: center;
+}
+
+.dropdown {
+    display: inline-block;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #b9d6f2 ;
+    color: #061a40;
+    padding: 5px;
+    box-shadow: 5px 5px 10px;
+}
+
+ol{
+    background-color: #003559;
+    color: #b9d6f2;
+    font-size: 20px
+
+}
+
+li {
+    background-color: #003559;
+    color: #b9d6f2;
+    font-size: 20px;
+}
+
+#even-row {
+    background-color: #061a40;
+    color: #cfdee7;
+    font-size: 20px;
+}
+
+h2 {
+    background-color: #003559;
+    color: #b9d6f2;
+}
+
+
+.dropdown-2 {
+    display: inline-block;
+}
+.dropdown-2:hover .dropdown-content-2 {
+    display: block;
+}
+
+.dropdown-content-2 {
+    display: none;
+    position: absolute;
+    background-color: #b9d6f2 ;
+    color: #061a40;
+    padding: 5px;
+    box-shadow: 5px 5px 10px;
+}
+
+.EXCO {
+    align-items: center ;
+}
